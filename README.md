@@ -111,3 +111,11 @@ fig: third key features page
 - Learn CI/CD automation concepts
 - Practice shell scripting with Jenkins
 - Showcase DevOps skills for your portfolio
+
+### Author
+
+Nikita Thosare
+ IT Engineer | Cloud & DevOps Enthusiast | Automation Learner
+🔗 https://www.linkedin.com/in/nikita-thosare-b9b8072a5/
+
+📰 https://medium.com/@thosarenikita
