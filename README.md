@@ -116,6 +116,7 @@ fig: third key features page
 
 Nikita Thosare
  IT Engineer | Cloud & DevOps Enthusiast | Automation Learner
+ 
 🔗 https://www.linkedin.com/in/nikita-thosare-b9b8072a5/
 
 📰 https://medium.com/@thosarenikita
